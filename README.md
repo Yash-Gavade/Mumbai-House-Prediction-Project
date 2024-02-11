@@ -54,14 +54,4 @@
 - `HTML/CSS/Javascript` for UI
 
 
-## Now in order to run the model first you need to download the following files:
-- [utils.py](https://github.com/v20131a4463/MumbaiHousingProject/blob/main/server/util.py)
-- [server.py](https://github.com/v20131a4463/MumbaiHousingProject/blob/main/server/server.py)
-and run them in any python ide which generates the following server :
-<http://127.0.0.1:5000>
 
-
-## Now run the [app.html](https://github.com/v20131a4463/MumbaiHousingProject/blob/main/client/app.html) file I provided to show the following UI will be shown:
-
-
-<img src='website.jpg' alt='mhpwebsite' align='center' />
