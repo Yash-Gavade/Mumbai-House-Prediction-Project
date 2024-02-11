@@ -50,6 +50,11 @@ Development Environment: Utilized Jupyter Notebook, WebStorm, and DataSpell as I
 Server-side Scripting: Python Flask for setting up the HTTP server<br>
 User Interface: Designed the UI using HTML, CSS, and Javascript for a seamless user experience.<br>
 
+
+### Output: 
+![website](https://github.com/Yash-Gavade/Mumbai-House-Prediction-Project/assets/74112721/b5a0e76b-8f5a-4db2-9152-2cc5a8539c97)
+
+
 ### Future Updates:
 
 1) Enhanced User Interface: Improve the user interface by adding interactive elements and intuitive design for a smoother user experience.<br>
