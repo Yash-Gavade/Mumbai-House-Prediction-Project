@@ -6,7 +6,7 @@
 
 
 ## Introduction:
-Welcome to the `Mumbai House Prediction Projec` In this repository, we utilize data analysis and machine learning techniques to forecast housing trends in the bustling city of Mumbai. Our aim is to empower individuals with valuable insights to make informed decisions in the dynamic real estate market of Mumbai.
+Welcome to the `Mumbai House Prediction Project` In this repository, we utilize data analysis and machine learning techniques to forecast housing trends in the bustling city of Mumbai. Our aim is to empower individuals with valuable insights to make informed decisions in the dynamic real estate market of Mumbai.
 
 ## Motivation:
 The motivation behind initiating this project stems from the necessity to address the challenges individuals face when navigating the complex real estate landscape in Mumbai. With rapidly changing market conditions and a plethora of factors influencing property prices, prospective buyers, sellers, and investors often find it daunting to make well-informed decisions. By leveraging advanced data analysis and machine learning algorithms, we seek to provide a reliable tool that can forecast housing trends accurately. Our goal is to empower individuals with the knowledge needed to navigate the Mumbai real estate market confidently, ultimately aiding in making sound investment choices and facilitating smoother transactions.
