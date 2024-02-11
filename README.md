@@ -1,4 +1,4 @@
-# BreadcrumbsMumbai-House-Prediction-Project
+# Mumbai-House-Prediction-Project
 
 
 
@@ -56,9 +56,5 @@ User Interface: Designed the UI using HTML, CSS, and Javascript for a seamless u
 
 2) Automated Data Updates: Implement automated data fetching and updating mechanisms to ensure that the model stays up-to-date with the latest housing market trends.<br>
 
-3) Error Handling and Feedback: Integrate robust error handling mechanisms and user feedback functionalities to enhance user engagement and provide a more seamless experience.<br>
-
-
-### Results:
 
 
