@@ -35,7 +35,7 @@ The motivation behind initiating this project stems from the necessity to addres
 `Swimming Pool`.
 
 ## Model Building and Features:
-I utilized the Decision Tree Regreesor from Scikit-learn to construct the predictive model. The model is designed to estimate house prices in Mumbai based on the features: Area, Number of Bedrooms, and Location. The target feature for prediction is Price.
+I utilized the Decision Tree Regreesor from Scikit-learn to construct the predictive model. The model is designed to estimate house prices in Mumbai based on the features: `Area`, `Number of Bedrooms`, and `Location`.<br> The Target feature for prediction is `Price`.
 
 ### Tools Utilized:
 In this project, I employed the following tools and technologies to develop and deploy the predictive model:
